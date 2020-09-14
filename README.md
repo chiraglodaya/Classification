@@ -15,4 +15,9 @@
 
 ## Objective: Apply dimensionality reduction technique – PCA and train a model using principle components instead of training the model using just the raw data.
 
+## The repository has 3 files:
+## - Unsupervised.ipynb (Notebook)
+## - Unsupervised.html (htmel version)
+## - vehicle.csv (Data Set)
+
 
